@@ -1,0 +1,49 @@
+
+.jumbotron {
+	background-image: url("../images/background.png");
+	border-bottom: 4px solid teal;
+	margin-bottom: 0;
+}
+
+#namehdr {
+	color: white;
+	background: teal;
+	text-align: center;
+}
+
+li h4{
+	color: #777777;
+	margin-top: 25px;
+	padding-bottom: 5px;
+}
+
+li a:hover {
+	text-decoration: none;
+}
+
+#elencanto {
+	color: maroon;
+	text-decoration: none;
+}
+
+#left {
+	background: white;
+	font-size: 18px;
+	padding-bottom: 20px;
+}
+
+
+#portpic {
+	padding-right: 10px;
+}
+
+#right {
+	background: white;
+}
+
+.footer {
+	background: #777777;
+	color: white;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
