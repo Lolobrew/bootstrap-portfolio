@@ -48,12 +48,12 @@ li h4{
 }
 
 .placeholderpics img {
-	width: 200px;
-	height: 175px;
+	width: 250px;
+	height: 225px;
 }
 
 .placeholderlinks {
-	width: 200px;
+	width: 250px;
 	background: teal;
 	text-align: center;
 	top: -50px;
